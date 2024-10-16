@@ -29,3 +29,11 @@
 [submodule "KASDLab08"]
  path = KASDLab08
  url = https://github.com/annakhit/KASDLab08
+
+[submodule "KASDLab09"]
+ path = KASDLab09
+ url = https://github.com/annakhit/KASDLab09
+
+[submodule "KASDLab10"]
+ path = KASDLab10
+ url = https://github.com/annakhit/KASDLab10
