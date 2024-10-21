@@ -39,5 +39,5 @@
  url = https://github.com/annakhit/KASDLab10
 
 [submodule "KASDLab11"]
- path = KASDLab10
+ path = KASDLab11
  url = https://github.com/annakhit/KASDLab11
