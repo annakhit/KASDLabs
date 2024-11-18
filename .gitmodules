@@ -66,6 +66,10 @@
  path = KASDLab17
  url = https://github.com/annakhit/KASDLab17
 
- [submodule "KASDLab18"]
+[submodule "KASDLab18"]
  path = KASDLab18
  url = https://github.com/annakhit/KASDLab18
+
+[submodule "KASDLab19"]
+ path = KASDLab19
+ url = https://github.com/annakhit/KASDLab19
