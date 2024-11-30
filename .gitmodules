@@ -93,3 +93,7 @@
 [submodule "KASDLab24"]
  path = KASDLab24
  url = https://github.com/annakhit/KASDLab24
+
+[submodule "KASDLab25"]
+ path = KASDLab25
+ url = https://github.com/annakhit/KASDLab25
